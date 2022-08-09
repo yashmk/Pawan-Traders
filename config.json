@@ -1,0 +1,10 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/Pawan-Traders",
+    "prod_uri": "mysql://root:@localhost/Pawan-Traders",
+    "gmail-user": "yashwantmalkani786@gmail.com",
+    "gmail-password": "tneqdfzkktpyozej"
+  }
+}
